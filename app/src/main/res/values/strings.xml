@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">K-Pocket</string>
+    <string name="action_signout">Sign out</string>
+    <string name="message_signed_in">Signed in as %1$s</string>
+    <string name="message_signed_out">Signed out</string>
+</resources>
